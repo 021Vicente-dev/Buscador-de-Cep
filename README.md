@@ -1,8 +1,16 @@
-# React + Vite
+-----------------------
+# buscador de cep #
+-----------------------
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 👇Minha descrição👇 ##
 
-Currently, two official plugins are available:
+ (https://portif-lio-plum.vercel.app/#home)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👨‍💻 Meu nome é Ryan conhecido como Vicente tenho 17 anos estou disponivel para freelancer e estágios disposto a pegar mais experiência na área 
+
+## ***contatos*** ##
+
+**📱 Celular: ***+55 (21) 989488914 <br>***
+📩 E-mail:** ***desenvolvedorvicente@gmail.com <br>***
+
+
